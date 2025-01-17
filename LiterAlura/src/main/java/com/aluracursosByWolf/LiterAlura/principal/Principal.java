@@ -43,7 +43,7 @@ public class Principal {
                     3 - Mostrar Libros  por Autores
                     4 - Mostrar Libros por Idioma
                     5 - Mostrar Estadisticas del Libros en Gutenberg.com
-                    6 - Top 7 de Libros mas Descargados
+                    6 - Top 7 de Libros mas y menos Descargados de Gutenberg.com.
                     
                     0 - Salir
                     --------------------------by wolf---
